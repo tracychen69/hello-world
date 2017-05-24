@@ -1,4 +1,4 @@
-The documents in this unit dive into the details of writing TensorFlow code. This section begins with the following guides, each of which explain a particular aspect of TensorFlow:
+dive into the details of writing TensorFlow code. This section begins with the following guides, each of which explain a particular aspect of TensorFlow:
 
 Variables: Creation, Initialization, Saving, and Loading, which details the mechanics of TensorFlow Variables.
 Tensor Ranks, Shapes, and Types, which explains Tensor rank (the number of dimensions), shape (the size of each dimension), and datatypes.
